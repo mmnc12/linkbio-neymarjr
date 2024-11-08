@@ -77,11 +77,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 -   **[Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 
-#### **Prototipação** ([Figma](https://www.figma.com/))
-
-- **[Minha Prototipação](https://www.figma.com/design/vdrP7NCVMzTTpdvFf73R8p/Local-Tur%C3%ADstico-(Community)?node-id=3-376&node-type=CANVAS&t=fQEb2bk1Rh4e28Wk-0)**
-
----
 
 <!-- ---------------------------------------------------------------------- -->
 
